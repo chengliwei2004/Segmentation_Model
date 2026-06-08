@@ -1,0 +1,1018 @@
+{
+    "foreground_mean": {
+        "Dice": 0.9388852637749477,
+        "FN": 46878.41935483871,
+        "FP": 86557.1129032258,
+        "IoU": 0.8924273624442506,
+        "TN": 8322214.4677419355,
+        "TP": 1261502.6129032257,
+        "n_pred": 1348059.7258064516,
+        "n_ref": 1308381.0322580645
+    },
+    "mean": {
+        "1": {
+            "Dice": 0.9388852637749477,
+            "FN": 46878.41935483871,
+            "FP": 86557.1129032258,
+            "IoU": 0.8924273624442506,
+            "TN": 8322214.4677419355,
+            "TP": 1261502.6129032257,
+            "n_pred": 1348059.7258064516,
+            "n_ref": 1308381.0322580645
+        }
+    },
+    "metric_per_case": [
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.986754724680397,
+                    "FN": 26799,
+                    "FP": 44546,
+                    "IoU": 0.9738557373180446,
+                    "TN": 9079871,
+                    "TP": 2657552,
+                    "n_pred": 2702098,
+                    "n_ref": 2684351
+                }
+            },
+            "prediction_file": "/home/yons/clw/seg_mamba/U-Mamba/data/nnUNet_results/Dataset101_ChaHu/nnUNetTrainerUMambaBot__nnUNetPlans__2d/fold_0/validation/ChaHu_010.nii.gz",
+            "reference_file": "/home/yons/clw/seg_mamba/U-Mamba/data/nnUNet_preprocessed/Dataset101_ChaHu/gt_segmentations/ChaHu_010.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9762016804789758,
+                    "FN": 21370,
+                    "FP": 3461,
+                    "IoU": 0.9535097507638848,
+                    "TN": 11274656,
+                    "TP": 509281,
+                    "n_pred": 512742,
+                    "n_ref": 530651
+                }
+            },
+            "prediction_file": "/home/yons/clw/seg_mamba/U-Mamba/data/nnUNet_results/Dataset101_ChaHu/nnUNetTrainerUMambaBot__nnUNetPlans__2d/fold_0/validation/ChaHu_011.nii.gz",
+            "reference_file": "/home/yons/clw/seg_mamba/U-Mamba/data/nnUNet_preprocessed/Dataset101_ChaHu/gt_segmentations/ChaHu_011.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.951214135376926,
+                    "FN": 3865,
+                    "FP": 98819,
+                    "IoU": 0.9069669676743645,
+                    "TN": 6202023,
+                    "TP": 1001053,
+                    "n_pred": 1099872,
+                    "n_ref": 1004918
+                }
+            },
+            "prediction_file": "/home/yons/clw/seg_mamba/U-Mamba/data/nnUNet_results/Dataset101_ChaHu/nnUNetTrainerUMambaBot__nnUNetPlans__2d/fold_0/validation/ChaHu_016.nii.gz",
+            "reference_file": "/home/yons/clw/seg_mamba/U-Mamba/data/nnUNet_preprocessed/Dataset101_ChaHu/gt_segmentations/ChaHu_016.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.968980116344604,
+                    "FN": 25370,
+                    "FP": 50089,
+                    "IoU": 0.9398267984019522,
+                    "TN": 10554738,
+                    "TP": 1178571,
+                    "n_pred": 1228660,
+                    "n_ref": 1203941
+                }
+            },
+            "prediction_file": "/home/yons/clw/seg_mamba/U-Mamba/data/nnUNet_results/Dataset101_ChaHu/nnUNetTrainerUMambaBot__nnUNetPlans__2d/fold_0/validation/ChaHu_018.nii.gz",
+            "reference_file": "/home/yons/clw/seg_mamba/U-Mamba/data/nnUNet_preprocessed/Dataset101_ChaHu/gt_segmentations/ChaHu_018.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9286611201908115,
+                    "FN": 25190,
+                    "FP": 73153,
+                    "IoU": 0.8668229424812915,
+                    "TN": 11070330,
+                    "TP": 640095,
+                    "n_pred": 713248,
+                    "n_ref": 665285
+                }
+            },
+            "prediction_file": "/home/yons/clw/seg_mamba/U-Mamba/data/nnUNet_results/Dataset101_ChaHu/nnUNetTrainerUMambaBot__nnUNetPlans__2d/fold_0/validation/ChaHu_019.nii.gz",
+            "reference_file": "/home/yons/clw/seg_mamba/U-Mamba/data/nnUNet_preprocessed/Dataset101_ChaHu/gt_segmentations/ChaHu_019.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9864746009032394,
+                    "FN": 14184,
+                    "FP": 17310,
+                    "IoU": 0.9733101921100067,
+                    "TN": 10628767,
+                    "TP": 1148507,
+                    "n_pred": 1165817,
+                    "n_ref": 1162691
+                }
+            },
+            "prediction_file": "/home/yons/clw/seg_mamba/U-Mamba/data/nnUNet_results/Dataset101_ChaHu/nnUNetTrainerUMambaBot__nnUNetPlans__2d/fold_0/validation/ChaHu_020.nii.gz",
+            "reference_file": "/home/yons/clw/seg_mamba/U-Mamba/data/nnUNet_preprocessed/Dataset101_ChaHu/gt_segmentations/ChaHu_020.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9540638370096021,
+                    "FN": 5329,
+                    "FP": 63010,
+                    "IoU": 0.9121625877069525,
+                    "TN": 11030751,
+                    "TP": 709678,
+                    "n_pred": 772688,
+                    "n_ref": 715007
+                }
+            },
+            "prediction_file": "/home/yons/clw/seg_mamba/U-Mamba/data/nnUNet_results/Dataset101_ChaHu/nnUNetTrainerUMambaBot__nnUNetPlans__2d/fold_0/validation/ChaHu_030.nii.gz",
+            "reference_file": "/home/yons/clw/seg_mamba/U-Mamba/data/nnUNet_preprocessed/Dataset101_ChaHu/gt_segmentations/ChaHu_030.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9656762710280802,
+                    "FN": 51846,
+                    "FP": 75629,
+                    "IoU": 0.9336305877734501,
+                    "TN": 9888079,
+                    "TP": 1793214,
+                    "n_pred": 1868843,
+                    "n_ref": 1845060
+                }
+            },
+            "prediction_file": "/home/yons/clw/seg_mamba/U-Mamba/data/nnUNet_results/Dataset101_ChaHu/nnUNetTrainerUMambaBot__nnUNetPlans__2d/fold_0/validation/ChaHu_031.nii.gz",
+            "reference_file": "/home/yons/clw/seg_mamba/U-Mamba/data/nnUNet_preprocessed/Dataset101_ChaHu/gt_segmentations/ChaHu_031.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9835769551215483,
+                    "FN": 16664,
+                    "FP": 17733,
+                    "IoU": 0.9676846270631031,
+                    "TN": 7058753,
+                    "TP": 1030019,
+                    "n_pred": 1047752,
+                    "n_ref": 1046683
+                }
+            },
+            "prediction_file": "/home/yons/clw/seg_mamba/U-Mamba/data/nnUNet_results/Dataset101_ChaHu/nnUNetTrainerUMambaBot__nnUNetPlans__2d/fold_0/validation/ChaHu_033.nii.gz",
+            "reference_file": "/home/yons/clw/seg_mamba/U-Mamba/data/nnUNet_preprocessed/Dataset101_ChaHu/gt_segmentations/ChaHu_033.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9801649140223092,
+                    "FN": 9987,
+                    "FP": 5478,
+                    "IoU": 0.9611013854094352,
+                    "TN": 11411196,
+                    "TP": 382107,
+                    "n_pred": 387585,
+                    "n_ref": 392094
+                }
+            },
+            "prediction_file": "/home/yons/clw/seg_mamba/U-Mamba/data/nnUNet_results/Dataset101_ChaHu/nnUNetTrainerUMambaBot__nnUNetPlans__2d/fold_0/validation/ChaHu_035.nii.gz",
+            "reference_file": "/home/yons/clw/seg_mamba/U-Mamba/data/nnUNet_preprocessed/Dataset101_ChaHu/gt_segmentations/ChaHu_035.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9826347729114087,
+                    "FN": 20267,
+                    "FP": 43047,
+                    "IoU": 0.9658623538013272,
+                    "TN": 7402588,
+                    "TP": 1791354,
+                    "n_pred": 1834401,
+                    "n_ref": 1811621
+                }
+            },
+            "prediction_file": "/home/yons/clw/seg_mamba/U-Mamba/data/nnUNet_results/Dataset101_ChaHu/nnUNetTrainerUMambaBot__nnUNetPlans__2d/fold_0/validation/ChaHu_040.nii.gz",
+            "reference_file": "/home/yons/clw/seg_mamba/U-Mamba/data/nnUNet_preprocessed/Dataset101_ChaHu/gt_segmentations/ChaHu_040.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9207987860057886,
+                    "FN": 176649,
+                    "FP": 17558,
+                    "IoU": 0.853222526129152,
+                    "TN": 10485629,
+                    "TP": 1128932,
+                    "n_pred": 1146490,
+                    "n_ref": 1305581
+                }
+            },
+            "prediction_file": "/home/yons/clw/seg_mamba/U-Mamba/data/nnUNet_results/Dataset101_ChaHu/nnUNetTrainerUMambaBot__nnUNetPlans__2d/fold_0/validation/ChaHu_041.nii.gz",
+            "reference_file": "/home/yons/clw/seg_mamba/U-Mamba/data/nnUNet_preprocessed/Dataset101_ChaHu/gt_segmentations/ChaHu_041.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9786503986038948,
+                    "FN": 54163,
+                    "FP": 31963,
+                    "IoU": 0.958193352468299,
+                    "TN": 9748665,
+                    "TP": 1973977,
+                    "n_pred": 2005940,
+                    "n_ref": 2028140
+                }
+            },
+            "prediction_file": "/home/yons/clw/seg_mamba/U-Mamba/data/nnUNet_results/Dataset101_ChaHu/nnUNetTrainerUMambaBot__nnUNetPlans__2d/fold_0/validation/ChaHu_047.nii.gz",
+            "reference_file": "/home/yons/clw/seg_mamba/U-Mamba/data/nnUNet_preprocessed/Dataset101_ChaHu/gt_segmentations/ChaHu_047.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9885307656188606,
+                    "FN": 34137,
+                    "FP": 19747,
+                    "IoU": 0.9773216347244476,
+                    "TN": 9432759,
+                    "TP": 2322125,
+                    "n_pred": 2341872,
+                    "n_ref": 2356262
+                }
+            },
+            "prediction_file": "/home/yons/clw/seg_mamba/U-Mamba/data/nnUNet_results/Dataset101_ChaHu/nnUNetTrainerUMambaBot__nnUNetPlans__2d/fold_0/validation/ChaHu_050.nii.gz",
+            "reference_file": "/home/yons/clw/seg_mamba/U-Mamba/data/nnUNet_preprocessed/Dataset101_ChaHu/gt_segmentations/ChaHu_050.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.6780392609840171,
+                    "FN": 296231,
+                    "FP": 21523,
+                    "IoU": 0.5129042345756227,
+                    "TN": 9465424,
+                    "TP": 334590,
+                    "n_pred": 356113,
+                    "n_ref": 630821
+                }
+            },
+            "prediction_file": "/home/yons/clw/seg_mamba/U-Mamba/data/nnUNet_results/Dataset101_ChaHu/nnUNetTrainerUMambaBot__nnUNetPlans__2d/fold_0/validation/ChaHu_052.nii.gz",
+            "reference_file": "/home/yons/clw/seg_mamba/U-Mamba/data/nnUNet_preprocessed/Dataset101_ChaHu/gt_segmentations/ChaHu_052.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9791935552660722,
+                    "FN": 48985,
+                    "FP": 23704,
+                    "IoU": 0.9592352794376197,
+                    "TN": 10025633,
+                    "TP": 1710446,
+                    "n_pred": 1734150,
+                    "n_ref": 1759431
+                }
+            },
+            "prediction_file": "/home/yons/clw/seg_mamba/U-Mamba/data/nnUNet_results/Dataset101_ChaHu/nnUNetTrainerUMambaBot__nnUNetPlans__2d/fold_0/validation/ChaHu_054.nii.gz",
+            "reference_file": "/home/yons/clw/seg_mamba/U-Mamba/data/nnUNet_preprocessed/Dataset101_ChaHu/gt_segmentations/ChaHu_054.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.925927770118872,
+                    "FN": 190913,
+                    "FP": 108094,
+                    "IoU": 0.8620721627085994,
+                    "TN": 9640917,
+                    "TP": 1868844,
+                    "n_pred": 1976938,
+                    "n_ref": 2059757
+                }
+            },
+            "prediction_file": "/home/yons/clw/seg_mamba/U-Mamba/data/nnUNet_results/Dataset101_ChaHu/nnUNetTrainerUMambaBot__nnUNetPlans__2d/fold_0/validation/ChaHu_055.nii.gz",
+            "reference_file": "/home/yons/clw/seg_mamba/U-Mamba/data/nnUNet_preprocessed/Dataset101_ChaHu/gt_segmentations/ChaHu_055.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.985257628018042,
+                    "FN": 9741,
+                    "FP": 18041,
+                    "IoU": 0.9709436160566276,
+                    "TN": 10852627,
+                    "TP": 928359,
+                    "n_pred": 946400,
+                    "n_ref": 938100
+                }
+            },
+            "prediction_file": "/home/yons/clw/seg_mamba/U-Mamba/data/nnUNet_results/Dataset101_ChaHu/nnUNetTrainerUMambaBot__nnUNetPlans__2d/fold_0/validation/ChaHu_057.nii.gz",
+            "reference_file": "/home/yons/clw/seg_mamba/U-Mamba/data/nnUNet_preprocessed/Dataset101_ChaHu/gt_segmentations/ChaHu_057.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9110988933585863,
+                    "FN": 168587,
+                    "FP": 104035,
+                    "IoU": 0.8367140852384315,
+                    "TN": 5853774,
+                    "TP": 1396977,
+                    "n_pred": 1501012,
+                    "n_ref": 1565564
+                }
+            },
+            "prediction_file": "/home/yons/clw/seg_mamba/U-Mamba/data/nnUNet_results/Dataset101_ChaHu/nnUNetTrainerUMambaBot__nnUNetPlans__2d/fold_0/validation/ChaHu_068.nii.gz",
+            "reference_file": "/home/yons/clw/seg_mamba/U-Mamba/data/nnUNet_preprocessed/Dataset101_ChaHu/gt_segmentations/ChaHu_068.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9653048393827877,
+                    "FN": 46115,
+                    "FP": 5097,
+                    "IoU": 0.93293645908904,
+                    "TN": 2970171,
+                    "TP": 712422,
+                    "n_pred": 717519,
+                    "n_ref": 758537
+                }
+            },
+            "prediction_file": "/home/yons/clw/seg_mamba/U-Mamba/data/nnUNet_results/Dataset101_ChaHu/nnUNetTrainerUMambaBot__nnUNetPlans__2d/fold_0/validation/ChaHu_071.nii.gz",
+            "reference_file": "/home/yons/clw/seg_mamba/U-Mamba/data/nnUNet_preprocessed/Dataset101_ChaHu/gt_segmentations/ChaHu_071.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.966291557091925,
+                    "FN": 64847,
+                    "FP": 43977,
+                    "IoU": 0.934781527345864,
+                    "TN": 10140161,
+                    "TP": 1559783,
+                    "n_pred": 1603760,
+                    "n_ref": 1624630
+                }
+            },
+            "prediction_file": "/home/yons/clw/seg_mamba/U-Mamba/data/nnUNet_results/Dataset101_ChaHu/nnUNetTrainerUMambaBot__nnUNetPlans__2d/fold_0/validation/ChaHu_073.nii.gz",
+            "reference_file": "/home/yons/clw/seg_mamba/U-Mamba/data/nnUNet_preprocessed/Dataset101_ChaHu/gt_segmentations/ChaHu_073.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9687235640011149,
+                    "FN": 22330,
+                    "FP": 80230,
+                    "IoU": 0.9393442244831455,
+                    "TN": 7595941,
+                    "TP": 1588293,
+                    "n_pred": 1668523,
+                    "n_ref": 1610623
+                }
+            },
+            "prediction_file": "/home/yons/clw/seg_mamba/U-Mamba/data/nnUNet_results/Dataset101_ChaHu/nnUNetTrainerUMambaBot__nnUNetPlans__2d/fold_0/validation/ChaHu_088.nii.gz",
+            "reference_file": "/home/yons/clw/seg_mamba/U-Mamba/data/nnUNet_preprocessed/Dataset101_ChaHu/gt_segmentations/ChaHu_088.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9576979102253294,
+                    "FN": 36910,
+                    "FP": 126588,
+                    "IoU": 0.9188295021382606,
+                    "TN": 9794514,
+                    "TP": 1850756,
+                    "n_pred": 1977344,
+                    "n_ref": 1887666
+                }
+            },
+            "prediction_file": "/home/yons/clw/seg_mamba/U-Mamba/data/nnUNet_results/Dataset101_ChaHu/nnUNetTrainerUMambaBot__nnUNetPlans__2d/fold_0/validation/ChaHu_099.nii.gz",
+            "reference_file": "/home/yons/clw/seg_mamba/U-Mamba/data/nnUNet_preprocessed/Dataset101_ChaHu/gt_segmentations/ChaHu_099.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.888536354319854,
+                    "FN": 15423,
+                    "FP": 214614,
+                    "IoU": 0.7994290751418375,
+                    "TN": 10661857,
+                    "TP": 916874,
+                    "n_pred": 1131488,
+                    "n_ref": 932297
+                }
+            },
+            "prediction_file": "/home/yons/clw/seg_mamba/U-Mamba/data/nnUNet_results/Dataset101_ChaHu/nnUNetTrainerUMambaBot__nnUNetPlans__2d/fold_0/validation/ChaHu_100.nii.gz",
+            "reference_file": "/home/yons/clw/seg_mamba/U-Mamba/data/nnUNet_preprocessed/Dataset101_ChaHu/gt_segmentations/ChaHu_100.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.988689621979815,
+                    "FN": 6397,
+                    "FP": 9019,
+                    "IoU": 0.9776322318726186,
+                    "TN": 5166969,
+                    "TP": 673790,
+                    "n_pred": 682809,
+                    "n_ref": 680187
+                }
+            },
+            "prediction_file": "/home/yons/clw/seg_mamba/U-Mamba/data/nnUNet_results/Dataset101_ChaHu/nnUNetTrainerUMambaBot__nnUNetPlans__2d/fold_0/validation/ChaHu_101.nii.gz",
+            "reference_file": "/home/yons/clw/seg_mamba/U-Mamba/data/nnUNet_preprocessed/Dataset101_ChaHu/gt_segmentations/ChaHu_101.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.7853418805251847,
+                    "FN": 12422,
+                    "FP": 387936,
+                    "IoU": 0.646553847484875,
+                    "TN": 11450185,
+                    "TP": 732369,
+                    "n_pred": 1120305,
+                    "n_ref": 744791
+                }
+            },
+            "prediction_file": "/home/yons/clw/seg_mamba/U-Mamba/data/nnUNet_results/Dataset101_ChaHu/nnUNetTrainerUMambaBot__nnUNetPlans__2d/fold_0/validation/ChaHu_110.nii.gz",
+            "reference_file": "/home/yons/clw/seg_mamba/U-Mamba/data/nnUNet_preprocessed/Dataset101_ChaHu/gt_segmentations/ChaHu_110.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9435189962393887,
+                    "FN": 12689,
+                    "FP": 155570,
+                    "IoU": 0.8930771049179994,
+                    "TN": 4928225,
+                    "TP": 1405389,
+                    "n_pred": 1560959,
+                    "n_ref": 1418078
+                }
+            },
+            "prediction_file": "/home/yons/clw/seg_mamba/U-Mamba/data/nnUNet_results/Dataset101_ChaHu/nnUNetTrainerUMambaBot__nnUNetPlans__2d/fold_0/validation/ChaHu_112.nii.gz",
+            "reference_file": "/home/yons/clw/seg_mamba/U-Mamba/data/nnUNet_preprocessed/Dataset101_ChaHu/gt_segmentations/ChaHu_112.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9352411292564307,
+                    "FN": 9621,
+                    "FP": 161377,
+                    "IoU": 0.8783595562846164,
+                    "TN": 5100734,
+                    "TP": 1234768,
+                    "n_pred": 1396145,
+                    "n_ref": 1244389
+                }
+            },
+            "prediction_file": "/home/yons/clw/seg_mamba/U-Mamba/data/nnUNet_results/Dataset101_ChaHu/nnUNetTrainerUMambaBot__nnUNetPlans__2d/fold_0/validation/ChaHu_113.nii.gz",
+            "reference_file": "/home/yons/clw/seg_mamba/U-Mamba/data/nnUNet_preprocessed/Dataset101_ChaHu/gt_segmentations/ChaHu_113.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9817284014300276,
+                    "FN": 8995,
+                    "FP": 22176,
+                    "IoU": 0.9641125244077663,
+                    "TN": 6624992,
+                    "TP": 837405,
+                    "n_pred": 859581,
+                    "n_ref": 846400
+                }
+            },
+            "prediction_file": "/home/yons/clw/seg_mamba/U-Mamba/data/nnUNet_results/Dataset101_ChaHu/nnUNetTrainerUMambaBot__nnUNetPlans__2d/fold_0/validation/ChaHu_115.nii.gz",
+            "reference_file": "/home/yons/clw/seg_mamba/U-Mamba/data/nnUNet_preprocessed/Dataset101_ChaHu/gt_segmentations/ChaHu_115.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8469383579743116,
+                    "FN": 53461,
+                    "FP": 346788,
+                    "IoU": 0.7345126462505663,
+                    "TN": 11075311,
+                    "TP": 1107352,
+                    "n_pred": 1454140,
+                    "n_ref": 1160813
+                }
+            },
+            "prediction_file": "/home/yons/clw/seg_mamba/U-Mamba/data/nnUNet_results/Dataset101_ChaHu/nnUNetTrainerUMambaBot__nnUNetPlans__2d/fold_0/validation/ChaHu_130.nii.gz",
+            "reference_file": "/home/yons/clw/seg_mamba/U-Mamba/data/nnUNet_preprocessed/Dataset101_ChaHu/gt_segmentations/ChaHu_130.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9279114083342322,
+                    "FN": 108715,
+                    "FP": 97800,
+                    "IoU": 0.8655174726675162,
+                    "TN": 6297933,
+                    "TP": 1329112,
+                    "n_pred": 1426912,
+                    "n_ref": 1437827
+                }
+            },
+            "prediction_file": "/home/yons/clw/seg_mamba/U-Mamba/data/nnUNet_results/Dataset101_ChaHu/nnUNetTrainerUMambaBot__nnUNetPlans__2d/fold_0/validation/ChaHu_141.nii.gz",
+            "reference_file": "/home/yons/clw/seg_mamba/U-Mamba/data/nnUNet_preprocessed/Dataset101_ChaHu/gt_segmentations/ChaHu_141.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9829395645768277,
+                    "FN": 10595,
+                    "FP": 10816,
+                    "IoU": 0.9664514814872848,
+                    "TN": 7179392,
+                    "TP": 616799,
+                    "n_pred": 627615,
+                    "n_ref": 627394
+                }
+            },
+            "prediction_file": "/home/yons/clw/seg_mamba/U-Mamba/data/nnUNet_results/Dataset101_ChaHu/nnUNetTrainerUMambaBot__nnUNetPlans__2d/fold_0/validation/ChaHu_144.nii.gz",
+            "reference_file": "/home/yons/clw/seg_mamba/U-Mamba/data/nnUNet_preprocessed/Dataset101_ChaHu/gt_segmentations/ChaHu_144.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9615433782750958,
+                    "FN": 36183,
+                    "FP": 6234,
+                    "IoU": 0.9259350445259298,
+                    "TN": 11236068,
+                    "TP": 530283,
+                    "n_pred": 536517,
+                    "n_ref": 566466
+                }
+            },
+            "prediction_file": "/home/yons/clw/seg_mamba/U-Mamba/data/nnUNet_results/Dataset101_ChaHu/nnUNetTrainerUMambaBot__nnUNetPlans__2d/fold_0/validation/ChaHu_145.nii.gz",
+            "reference_file": "/home/yons/clw/seg_mamba/U-Mamba/data/nnUNet_preprocessed/Dataset101_ChaHu/gt_segmentations/ChaHu_145.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9836708020919588,
+                    "FN": 23322,
+                    "FP": 58438,
+                    "IoU": 0.967866321381591,
+                    "TN": 9264397,
+                    "TP": 2462611,
+                    "n_pred": 2521049,
+                    "n_ref": 2485933
+                }
+            },
+            "prediction_file": "/home/yons/clw/seg_mamba/U-Mamba/data/nnUNet_results/Dataset101_ChaHu/nnUNetTrainerUMambaBot__nnUNetPlans__2d/fold_0/validation/ChaHu_148.nii.gz",
+            "reference_file": "/home/yons/clw/seg_mamba/U-Mamba/data/nnUNet_preprocessed/Dataset101_ChaHu/gt_segmentations/ChaHu_148.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9778000569922645,
+                    "FN": 14130,
+                    "FP": 28562,
+                    "IoU": 0.9565643822236692,
+                    "TN": 3691370,
+                    "TP": 940188,
+                    "n_pred": 968750,
+                    "n_ref": 954318
+                }
+            },
+            "prediction_file": "/home/yons/clw/seg_mamba/U-Mamba/data/nnUNet_results/Dataset101_ChaHu/nnUNetTrainerUMambaBot__nnUNetPlans__2d/fold_0/validation/ChaHu_151.nii.gz",
+            "reference_file": "/home/yons/clw/seg_mamba/U-Mamba/data/nnUNet_preprocessed/Dataset101_ChaHu/gt_segmentations/ChaHu_151.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9612591018045317,
+                    "FN": 20796,
+                    "FP": 111977,
+                    "IoU": 0.9254079660042843,
+                    "TN": 8454351,
+                    "TP": 1647216,
+                    "n_pred": 1759193,
+                    "n_ref": 1668012
+                }
+            },
+            "prediction_file": "/home/yons/clw/seg_mamba/U-Mamba/data/nnUNet_results/Dataset101_ChaHu/nnUNetTrainerUMambaBot__nnUNetPlans__2d/fold_0/validation/ChaHu_169.nii.gz",
+            "reference_file": "/home/yons/clw/seg_mamba/U-Mamba/data/nnUNet_preprocessed/Dataset101_ChaHu/gt_segmentations/ChaHu_169.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9851232392651422,
+                    "FN": 17215,
+                    "FP": 5696,
+                    "IoU": 0.9706826260873571,
+                    "TN": 11027286,
+                    "TP": 758571,
+                    "n_pred": 764267,
+                    "n_ref": 775786
+                }
+            },
+            "prediction_file": "/home/yons/clw/seg_mamba/U-Mamba/data/nnUNet_results/Dataset101_ChaHu/nnUNetTrainerUMambaBot__nnUNetPlans__2d/fold_0/validation/ChaHu_174.nii.gz",
+            "reference_file": "/home/yons/clw/seg_mamba/U-Mamba/data/nnUNet_preprocessed/Dataset101_ChaHu/gt_segmentations/ChaHu_174.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9736823879177886,
+                    "FN": 25251,
+                    "FP": 36307,
+                    "IoU": 0.9487144880446555,
+                    "TN": 10608468,
+                    "TP": 1138742,
+                    "n_pred": 1175049,
+                    "n_ref": 1163993
+                }
+            },
+            "prediction_file": "/home/yons/clw/seg_mamba/U-Mamba/data/nnUNet_results/Dataset101_ChaHu/nnUNetTrainerUMambaBot__nnUNetPlans__2d/fold_0/validation/ChaHu_180.nii.gz",
+            "reference_file": "/home/yons/clw/seg_mamba/U-Mamba/data/nnUNet_preprocessed/Dataset101_ChaHu/gt_segmentations/ChaHu_180.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9885056586144673,
+                    "FN": 23815,
+                    "FP": 12009,
+                    "IoU": 0.9772725542492152,
+                    "TN": 10232524,
+                    "TP": 1540420,
+                    "n_pred": 1552429,
+                    "n_ref": 1564235
+                }
+            },
+            "prediction_file": "/home/yons/clw/seg_mamba/U-Mamba/data/nnUNet_results/Dataset101_ChaHu/nnUNetTrainerUMambaBot__nnUNetPlans__2d/fold_0/validation/ChaHu_184.nii.gz",
+            "reference_file": "/home/yons/clw/seg_mamba/U-Mamba/data/nnUNet_preprocessed/Dataset101_ChaHu/gt_segmentations/ChaHu_184.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9882575706759323,
+                    "FN": 7521,
+                    "FP": 16987,
+                    "IoU": 0.9767877100263302,
+                    "TN": 8162258,
+                    "TP": 1031312,
+                    "n_pred": 1048299,
+                    "n_ref": 1038833
+                }
+            },
+            "prediction_file": "/home/yons/clw/seg_mamba/U-Mamba/data/nnUNet_results/Dataset101_ChaHu/nnUNetTrainerUMambaBot__nnUNetPlans__2d/fold_0/validation/ChaHu_188.nii.gz",
+            "reference_file": "/home/yons/clw/seg_mamba/U-Mamba/data/nnUNet_preprocessed/Dataset101_ChaHu/gt_segmentations/ChaHu_188.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9502129429215364,
+                    "FN": 253069,
+                    "FP": 34616,
+                    "IoU": 0.9051482741328132,
+                    "TN": 8775771,
+                    "TP": 2745312,
+                    "n_pred": 2779928,
+                    "n_ref": 2998381
+                }
+            },
+            "prediction_file": "/home/yons/clw/seg_mamba/U-Mamba/data/nnUNet_results/Dataset101_ChaHu/nnUNetTrainerUMambaBot__nnUNetPlans__2d/fold_0/validation/ChaHu_191.nii.gz",
+            "reference_file": "/home/yons/clw/seg_mamba/U-Mamba/data/nnUNet_preprocessed/Dataset101_ChaHu/gt_segmentations/ChaHu_191.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9705486385402546,
+                    "FN": 56300,
+                    "FP": 7184,
+                    "IoU": 0.9427824129194723,
+                    "TN": 4040695,
+                    "TP": 1046035,
+                    "n_pred": 1053219,
+                    "n_ref": 1102335
+                }
+            },
+            "prediction_file": "/home/yons/clw/seg_mamba/U-Mamba/data/nnUNet_results/Dataset101_ChaHu/nnUNetTrainerUMambaBot__nnUNetPlans__2d/fold_0/validation/ChaHu_195.nii.gz",
+            "reference_file": "/home/yons/clw/seg_mamba/U-Mamba/data/nnUNet_preprocessed/Dataset101_ChaHu/gt_segmentations/ChaHu_195.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9720870006898107,
+                    "FN": 95033,
+                    "FP": 27130,
+                    "IoU": 0.9456899575568728,
+                    "TN": 6928621,
+                    "TP": 2127200,
+                    "n_pred": 2154330,
+                    "n_ref": 2222233
+                }
+            },
+            "prediction_file": "/home/yons/clw/seg_mamba/U-Mamba/data/nnUNet_results/Dataset101_ChaHu/nnUNetTrainerUMambaBot__nnUNetPlans__2d/fold_0/validation/ChaHu_197.nii.gz",
+            "reference_file": "/home/yons/clw/seg_mamba/U-Mamba/data/nnUNet_preprocessed/Dataset101_ChaHu/gt_segmentations/ChaHu_197.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9814999453180693,
+                    "FN": 55547,
+                    "FP": 13978,
+                    "IoU": 0.963671961337875,
+                    "TN": 9894957,
+                    "TP": 1844286,
+                    "n_pred": 1858264,
+                    "n_ref": 1899833
+                }
+            },
+            "prediction_file": "/home/yons/clw/seg_mamba/U-Mamba/data/nnUNet_results/Dataset101_ChaHu/nnUNetTrainerUMambaBot__nnUNetPlans__2d/fold_0/validation/ChaHu_202.nii.gz",
+            "reference_file": "/home/yons/clw/seg_mamba/U-Mamba/data/nnUNet_preprocessed/Dataset101_ChaHu/gt_segmentations/ChaHu_202.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8819559017369443,
+                    "FN": 110314,
+                    "FP": 116709,
+                    "IoU": 0.788838206925033,
+                    "TN": 10733654,
+                    "TP": 848091,
+                    "n_pred": 964800,
+                    "n_ref": 958405
+                }
+            },
+            "prediction_file": "/home/yons/clw/seg_mamba/U-Mamba/data/nnUNet_results/Dataset101_ChaHu/nnUNetTrainerUMambaBot__nnUNetPlans__2d/fold_0/validation/ChaHu_205.nii.gz",
+            "reference_file": "/home/yons/clw/seg_mamba/U-Mamba/data/nnUNet_preprocessed/Dataset101_ChaHu/gt_segmentations/ChaHu_205.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9402894711577083,
+                    "FN": 20515,
+                    "FP": 131860,
+                    "IoU": 0.887307850177682,
+                    "TN": 3915205,
+                    "TP": 1199760,
+                    "n_pred": 1331620,
+                    "n_ref": 1220275
+                }
+            },
+            "prediction_file": "/home/yons/clw/seg_mamba/U-Mamba/data/nnUNet_results/Dataset101_ChaHu/nnUNetTrainerUMambaBot__nnUNetPlans__2d/fold_0/validation/ChaHu_209.nii.gz",
+            "reference_file": "/home/yons/clw/seg_mamba/U-Mamba/data/nnUNet_preprocessed/Dataset101_ChaHu/gt_segmentations/ChaHu_209.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9765148392415499,
+                    "FN": 26652,
+                    "FP": 23486,
+                    "IoU": 0.9541074718835268,
+                    "TN": 5171123,
+                    "TP": 1042371,
+                    "n_pred": 1065857,
+                    "n_ref": 1069023
+                }
+            },
+            "prediction_file": "/home/yons/clw/seg_mamba/U-Mamba/data/nnUNet_results/Dataset101_ChaHu/nnUNetTrainerUMambaBot__nnUNetPlans__2d/fold_0/validation/ChaHu_211.nii.gz",
+            "reference_file": "/home/yons/clw/seg_mamba/U-Mamba/data/nnUNet_preprocessed/Dataset101_ChaHu/gt_segmentations/ChaHu_211.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9648914742014483,
+                    "FN": 51918,
+                    "FP": 14630,
+                    "IoU": 0.9321645510136888,
+                    "TN": 4458979,
+                    "TP": 914473,
+                    "n_pred": 929103,
+                    "n_ref": 966391
+                }
+            },
+            "prediction_file": "/home/yons/clw/seg_mamba/U-Mamba/data/nnUNet_results/Dataset101_ChaHu/nnUNetTrainerUMambaBot__nnUNetPlans__2d/fold_0/validation/ChaHu_213.nii.gz",
+            "reference_file": "/home/yons/clw/seg_mamba/U-Mamba/data/nnUNet_preprocessed/Dataset101_ChaHu/gt_segmentations/ChaHu_213.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.726225039928008,
+                    "FN": 24998,
+                    "FP": 819235,
+                    "IoU": 0.5701360622499305,
+                    "TN": 9844814,
+                    "TP": 1119721,
+                    "n_pred": 1938956,
+                    "n_ref": 1144719
+                }
+            },
+            "prediction_file": "/home/yons/clw/seg_mamba/U-Mamba/data/nnUNet_results/Dataset101_ChaHu/nnUNetTrainerUMambaBot__nnUNetPlans__2d/fold_0/validation/ChaHu_220.nii.gz",
+            "reference_file": "/home/yons/clw/seg_mamba/U-Mamba/data/nnUNet_preprocessed/Dataset101_ChaHu/gt_segmentations/ChaHu_220.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9793201470688364,
+                    "FN": 20718,
+                    "FP": 27878,
+                    "IoU": 0.9594782774015266,
+                    "TN": 5133930,
+                    "TP": 1150662,
+                    "n_pred": 1178540,
+                    "n_ref": 1171380
+                }
+            },
+            "prediction_file": "/home/yons/clw/seg_mamba/U-Mamba/data/nnUNet_results/Dataset101_ChaHu/nnUNetTrainerUMambaBot__nnUNetPlans__2d/fold_0/validation/ChaHu_232.nii.gz",
+            "reference_file": "/home/yons/clw/seg_mamba/U-Mamba/data/nnUNet_preprocessed/Dataset101_ChaHu/gt_segmentations/ChaHu_232.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8733722548535696,
+                    "FN": 24151,
+                    "FP": 490734,
+                    "IoU": 0.7752092548901816,
+                    "TN": 6410926,
+                    "TP": 1775623,
+                    "n_pred": 2266357,
+                    "n_ref": 1799774
+                }
+            },
+            "prediction_file": "/home/yons/clw/seg_mamba/U-Mamba/data/nnUNet_results/Dataset101_ChaHu/nnUNetTrainerUMambaBot__nnUNetPlans__2d/fold_0/validation/ChaHu_233.nii.gz",
+            "reference_file": "/home/yons/clw/seg_mamba/U-Mamba/data/nnUNet_preprocessed/Dataset101_ChaHu/gt_segmentations/ChaHu_233.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.894990935010419,
+                    "FN": 3779,
+                    "FP": 107891,
+                    "IoU": 0.8099399030892638,
+                    "TN": 11221217,
+                    "TP": 475881,
+                    "n_pred": 583772,
+                    "n_ref": 479660
+                }
+            },
+            "prediction_file": "/home/yons/clw/seg_mamba/U-Mamba/data/nnUNet_results/Dataset101_ChaHu/nnUNetTrainerUMambaBot__nnUNetPlans__2d/fold_0/validation/ChaHu_234.nii.gz",
+            "reference_file": "/home/yons/clw/seg_mamba/U-Mamba/data/nnUNet_preprocessed/Dataset101_ChaHu/gt_segmentations/ChaHu_234.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.988845199605444,
+                    "FN": 32917,
+                    "FP": 18221,
+                    "IoU": 0.9779365130043326,
+                    "TN": 6450367,
+                    "TP": 2266628,
+                    "n_pred": 2284849,
+                    "n_ref": 2299545
+                }
+            },
+            "prediction_file": "/home/yons/clw/seg_mamba/U-Mamba/data/nnUNet_results/Dataset101_ChaHu/nnUNetTrainerUMambaBot__nnUNetPlans__2d/fold_0/validation/ChaHu_239.nii.gz",
+            "reference_file": "/home/yons/clw/seg_mamba/U-Mamba/data/nnUNet_preprocessed/Dataset101_ChaHu/gt_segmentations/ChaHu_239.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9745984899253137,
+                    "FN": 14157,
+                    "FP": 45505,
+                    "IoU": 0.9504554853389359,
+                    "TN": 5885024,
+                    "TP": 1144548,
+                    "n_pred": 1190053,
+                    "n_ref": 1158705
+                }
+            },
+            "prediction_file": "/home/yons/clw/seg_mamba/U-Mamba/data/nnUNet_results/Dataset101_ChaHu/nnUNetTrainerUMambaBot__nnUNetPlans__2d/fold_0/validation/ChaHu_249.nii.gz",
+            "reference_file": "/home/yons/clw/seg_mamba/U-Mamba/data/nnUNet_preprocessed/Dataset101_ChaHu/gt_segmentations/ChaHu_249.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.7282450582093276,
+                    "FN": 54456,
+                    "FP": 3271,
+                    "IoU": 0.5726300203590597,
+                    "TN": 11673693,
+                    "TP": 77348,
+                    "n_pred": 80619,
+                    "n_ref": 131804
+                }
+            },
+            "prediction_file": "/home/yons/clw/seg_mamba/U-Mamba/data/nnUNet_results/Dataset101_ChaHu/nnUNetTrainerUMambaBot__nnUNetPlans__2d/fold_0/validation/ChaHu_253.nii.gz",
+            "reference_file": "/home/yons/clw/seg_mamba/U-Mamba/data/nnUNet_preprocessed/Dataset101_ChaHu/gt_segmentations/ChaHu_253.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.6950644663254634,
+                    "FN": 16316,
+                    "FP": 295945,
+                    "IoU": 0.5326427615686485,
+                    "TN": 11140626,
+                    "TP": 355881,
+                    "n_pred": 651826,
+                    "n_ref": 372197
+                }
+            },
+            "prediction_file": "/home/yons/clw/seg_mamba/U-Mamba/data/nnUNet_results/Dataset101_ChaHu/nnUNetTrainerUMambaBot__nnUNetPlans__2d/fold_0/validation/ChaHu_260.nii.gz",
+            "reference_file": "/home/yons/clw/seg_mamba/U-Mamba/data/nnUNet_preprocessed/Dataset101_ChaHu/gt_segmentations/ChaHu_260.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9649316837071291,
+                    "FN": 49563,
+                    "FP": 96136,
+                    "IoU": 0.9322396101960321,
+                    "TN": 7891715,
+                    "TP": 2004510,
+                    "n_pred": 2100646,
+                    "n_ref": 2054073
+                }
+            },
+            "prediction_file": "/home/yons/clw/seg_mamba/U-Mamba/data/nnUNet_results/Dataset101_ChaHu/nnUNetTrainerUMambaBot__nnUNetPlans__2d/fold_0/validation/ChaHu_287.nii.gz",
+            "reference_file": "/home/yons/clw/seg_mamba/U-Mamba/data/nnUNet_preprocessed/Dataset101_ChaHu/gt_segmentations/ChaHu_287.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9783835429619692,
+                    "FN": 67391,
+                    "FP": 40075,
+                    "IoU": 0.9576818543023409,
+                    "TN": 9269290,
+                    "TP": 2432012,
+                    "n_pred": 2472087,
+                    "n_ref": 2499403
+                }
+            },
+            "prediction_file": "/home/yons/clw/seg_mamba/U-Mamba/data/nnUNet_results/Dataset101_ChaHu/nnUNetTrainerUMambaBot__nnUNetPlans__2d/fold_0/validation/ChaHu_298.nii.gz",
+            "reference_file": "/home/yons/clw/seg_mamba/U-Mamba/data/nnUNet_preprocessed/Dataset101_ChaHu/gt_segmentations/ChaHu_298.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.976629240573611,
+                    "FN": 31879,
+                    "FP": 70481,
+                    "IoU": 0.954325919103867,
+                    "TN": 9567672,
+                    "TP": 2138736,
+                    "n_pred": 2209217,
+                    "n_ref": 2170615
+                }
+            },
+            "prediction_file": "/home/yons/clw/seg_mamba/U-Mamba/data/nnUNet_results/Dataset101_ChaHu/nnUNetTrainerUMambaBot__nnUNetPlans__2d/fold_0/validation/ChaHu_301.nii.gz",
+            "reference_file": "/home/yons/clw/seg_mamba/U-Mamba/data/nnUNet_preprocessed/Dataset101_ChaHu/gt_segmentations/ChaHu_301.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9187314972575399,
+                    "FN": 89259,
+                    "FP": 26504,
+                    "IoU": 0.8496793302748838,
+                    "TN": 7585441,
+                    "TP": 654344,
+                    "n_pred": 680848,
+                    "n_ref": 743603
+                }
+            },
+            "prediction_file": "/home/yons/clw/seg_mamba/U-Mamba/data/nnUNet_results/Dataset101_ChaHu/nnUNetTrainerUMambaBot__nnUNetPlans__2d/fold_0/validation/ChaHu_302.nii.gz",
+            "reference_file": "/home/yons/clw/seg_mamba/U-Mamba/data/nnUNet_preprocessed/Dataset101_ChaHu/gt_segmentations/ChaHu_302.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9736309254723031,
+                    "FN": 15408,
+                    "FP": 34756,
+                    "IoU": 0.948616778930462,
+                    "TN": 3739936,
+                    "TP": 926108,
+                    "n_pred": 960864,
+                    "n_ref": 941516
+                }
+            },
+            "prediction_file": "/home/yons/clw/seg_mamba/U-Mamba/data/nnUNet_results/Dataset101_ChaHu/nnUNetTrainerUMambaBot__nnUNetPlans__2d/fold_0/validation/ChaHu_308.nii.gz",
+            "reference_file": "/home/yons/clw/seg_mamba/U-Mamba/data/nnUNet_preprocessed/Dataset101_ChaHu/gt_segmentations/ChaHu_308.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9093116923240584,
+                    "FN": 15092,
+                    "FP": 145178,
+                    "IoU": 0.833704446930064,
+                    "TN": 3473354,
+                    "TP": 803496,
+                    "n_pred": 948674,
+                    "n_ref": 818588
+                }
+            },
+            "prediction_file": "/home/yons/clw/seg_mamba/U-Mamba/data/nnUNet_results/Dataset101_ChaHu/nnUNetTrainerUMambaBot__nnUNetPlans__2d/fold_0/validation/ChaHu_309.nii.gz",
+            "reference_file": "/home/yons/clw/seg_mamba/U-Mamba/data/nnUNet_preprocessed/Dataset101_ChaHu/gt_segmentations/ChaHu_309.nii.gz"
+        }
+    ]
+}
